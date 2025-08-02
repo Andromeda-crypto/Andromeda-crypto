@@ -61,24 +61,13 @@
 ## 📫 How to Reach Me
 
 📧 [anandom.dev@gmail.com](mailto:anandom.dev@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/om-anand)  
-🌐 [Portfolio Website](https://your-portfolio-link.com) *(add this once live)*
+🔗 [LinkedIn]([https://linkedin.com/in/om-anand](https://www.linkedin.com/in/om-anand-wozchek/))  
+🌐 [Portfolio Website](https://your-portfolio-link.com) UPCOMING!!
 
 ---
 
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmAnand&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmAnand&layout=compact&theme=tokyonight)
 
 
-<!--
-**Andromeda-crypto/Andromeda-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
