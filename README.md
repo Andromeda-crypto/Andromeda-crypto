@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 # 👋 Hi, I'm Om Anand
 
-🎓 CS student @ Penn State Harrisburg  
+🎓 CS student @ Penn State   
 📈 Aspiring Software Engineer / Data Scientist / Quant Developer  
 🚀 Building real-world projects that blend code, data, and creativity  
 
