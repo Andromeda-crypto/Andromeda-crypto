@@ -66,8 +66,8 @@
 
 ---
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmAnand&show_icons=true&theme=tokyonight)
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmAnand&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-crypto&layout=compact&theme=tokyonight)
 
 
