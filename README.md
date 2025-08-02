@@ -61,7 +61,7 @@
 ## 📫 How to Reach Me
 
 📧 [anandom.dev@gmail.com](mailto:anandom.dev@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/om-anand-wozchek/])  
+🔗 [LinkedIn](https://www.linkedin.com/in/om-anand-wozchek/)  
 🌐 [Portfolio Website](https://your-portfolio-link.com) UPCOMING!!
 
 ---
