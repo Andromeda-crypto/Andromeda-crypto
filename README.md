@@ -70,5 +70,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-crypto&layout=compact&theme=tokyonight)
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
