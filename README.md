@@ -61,12 +61,11 @@
 ## 📫 How to Reach Me
 
 📧 [anandom.dev@gmail.com](mailto:anandom.dev@gmail.com)  
-🔗 [LinkedIn]([https://linkedin.com/in/om-anand](https://www.linkedin.com/in/om-anand-wozchek/))  
+🔗 [LinkedIn]([https://www.linkedin.com/in/om-anand-wozchek/])  
 🌐 [Portfolio Website](https://your-portfolio-link.com) UPCOMING!!
 
 ---
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-crypto&layout=compact&theme=tokyonight)
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=radical)
