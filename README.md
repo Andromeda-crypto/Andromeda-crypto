@@ -12,8 +12,7 @@
 
 ### 🖥️ Languages  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)   
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)  
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)  
