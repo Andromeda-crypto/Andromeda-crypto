@@ -51,9 +51,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| **Auralis** | Adaptive system that optimizes energy usage by learning from its environment | Python, IoT, Simulation, Neural Nets |
 | **VolatiQ** | Quantitative risk intelligence platform that forecasts short-term market volatility | Python, Flask, TensorFlow, Dash |
-| **FinRisk** | Interactive geospatial app for financial risk scoring based on flood/crime data | JS, Google Maps API, Geospatial Analytics |
-| **PlantPulse** | Smart plant monitoring system with simulated sensor data and predictive ML care suggestions | Python, Scikit-learn, Seaborn |
+| **PlantPulse** | Smart plant monitoring system with predictive ML-based care suggestions | Python, Scikit-learn, Seaborn |
+
 
 ---
 
