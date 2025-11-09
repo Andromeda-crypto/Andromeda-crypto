@@ -66,7 +66,7 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/a3b54e16-9b86-4259-8916-ded562c8dde9.svg)](https://wakatime.com/@a3b54e16-9b86-4259-8916-ded562c8dde9)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-crypto&layout=compact&theme=tokyonight)
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=radical)
 
