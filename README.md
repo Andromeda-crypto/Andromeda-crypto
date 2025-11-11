@@ -62,7 +62,7 @@
 
 📧 [anandom.dev@gmail.com](mailto:anandom.dev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/om-anand-wozchek/)  
-🌐 [Portfolio Website](om-anand.vercel.app/) 
+🌐 [Portfolio Website](https://om-anand.vercel.app//) 
 
 ---
 
