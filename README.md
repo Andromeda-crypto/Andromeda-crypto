@@ -1,59 +1,56 @@
 
 
-# 👋 Hi, I'm Om Anand
+# Om Anand
 
-🎓 CS student @ Penn State   
-📈 Aspiring Software Engineer / Data Scientist / Quant Developer  
-🚀 Building real-world projects that blend code, data, and creativity  
-
----
-
-## 🔧 Tech Stack
-
-### 🖥️ Languages  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)   
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
+Computer Science student at Penn State with interests in software engineering, machine learning, and quantitative systems.  
+I focus on building end-to-end projects that emphasize algorithmic rigor, system design, and real-world constraints.
 
 ---
 
-### ⚙️ Frameworks & Libraries  
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)  
-![Dash](https://img.shields.io/badge/-Dash-05122A?style=flat&logo=plotly)  
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)  
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)  
+## Technical Skills
+
+### Programming Languages
+- Python  
+- Java  
+- C++  
+- SQL  
+- HTML / CSS  
 
 ---
 
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)  
-
-
-## 🧠 Current Focus
-
-- 📊 Building quant finance and machine learning projects
-- 📚 Grinding Leetcode + mastering data structures
-- 🧪 Exploring time-series forecasting and NLP
-- ☁️ Learning to deploy apps with Docker + cloud tools
+### Frameworks & Libraries
+- Flask, Dash  
+- TensorFlow, Scikit-learn  
+- Pandas, NumPy  
+- Plotly, Seaborn
+- PyTorch, PyBullet
 
 ---
+
+### Tools & Platforms
+- Git & GitHub  
+- Raspberry Pi  
+- Linux-based development environments  
+
+---
+
+## Current Focus
+
+- Developing machine learning and algorithmic systems with measurable performance  
+- Strengthening foundations in data structures, algorithms, and problem-solving  
+- Exploring time-series modeling and natural language processing  
+- Learning containerization and deployment workflows (Docker, cloud platforms)
+
+---
+
 
 ## 🛠️ Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Auralis** | Adaptive system that optimizes energy usage by learning from its environment | Python, IoT, Simulation, Neural Nets |
-| **VolatiQ** | Quantitative risk intelligence platform that forecasts short-term market volatility | Python, Flask, TensorFlow, Dash |
-| **PlantPulse** | Smart plant monitoring system with predictive ML-based care suggestions | Python, Scikit-learn, Seaborn |
+| **Poker CFR Solver** | Implementation of Counterfactual Regret Minimization to learn approximate Nash-equilibrium strategies in an imperfect-information poker environment | Python, Algorithms, Game Theory |
+| **PlantPulse** | Data-driven plant monitoring system that uses machine learning to generate predictive care recommendations from environmental features | Python, Scikit-learn, Pandas, Data Visualization |
+| **Robo-Sim** | Real-time simulation system that maps human hand gestures to robotic arm control, exploring intuitive control interfaces and system responsiveness | Python, Simulation, Control Systems |
 
 
 ---
