@@ -10,9 +10,9 @@ I focus on building end-to-end projects that emphasize algorithmic rigor, system
 ## Technical Skills
 
 ### Programming Languages
-- Python  
-- Java  
-- C++  
+- Python   
+- C++
+- Java
 - SQL  
 - HTML / CSS  
 
@@ -24,13 +24,16 @@ I focus on building end-to-end projects that emphasize algorithmic rigor, system
 - Pandas, NumPy  
 - Plotly, Seaborn
 - PyTorch, PyBullet
+- SFML
 
 ---
 
 ### Tools & Platforms
 - Git & GitHub  
-- Raspberry Pi  
-- Linux-based development environments  
+- Raspberry Pi
+- ESP32
+- Linux-based development environments
+- Arduino
 
 ---
 
