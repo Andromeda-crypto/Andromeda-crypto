@@ -65,7 +65,7 @@ I focus on building end-to-end projects that emphasize algorithmic rigor, system
 🌐 [Portfolio Website](https://om-anand.vercel.app//) 
 
 ---
-[![wakatime](https://wakatime.com/badge/github/Andromeda-crypto/Andromeda-crypto.svg)](https://wakatime.com/badge/github/Andromeda-crypto/Andromeda-crypto)
+
 
 
 
