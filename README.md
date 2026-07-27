@@ -74,7 +74,6 @@ I build projects that connect algorithms with real systems — from autonomous n
 🔗 [LinkedIn](https://www.linkedin.com/in/om-anand-wozchek)  
 🌐 [Portfolio Website](https://om-anand.vercel.app/)
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Andromeda-crypto&show_icons=true&theme=transparent)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
