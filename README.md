@@ -75,6 +75,7 @@ I build projects that connect algorithms with real systems — from autonomous n
 🌐 [Portfolio Website](https://om-anand.vercel.app/)
 
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Andromeda-crypto)](https://github.com/stats-organization/github-stats-extended)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
